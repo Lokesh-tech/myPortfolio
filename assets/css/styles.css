@@ -297,20 +297,20 @@ img{
 .skills__c { width: 55% }
 .skills__img{  border-radius: .5rem; }
 
-/* ===== WORK =====
-.work__container{
+/* ===== PROJECTS =====
+.projects__container{
   row-gap: 2rem;
 }
-.work__img{
+.projects__img{
   box-shadow: 0 4px 25px rgba(14,36,49,.15);
   border-radius: .5rem;
   overflow: hidden;
 }
-.work__img img{
+.projects__img img{
   transition: 1s;
   cursor: pointer;
 }
-.work__img img:hover {
+.projects__img img:hover {
   transform: scale(1.1);
   display: contents;
 }
